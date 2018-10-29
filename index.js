@@ -1,12 +1,12 @@
 // write your code below!
-holidayCountdown(20, "Mother's Day")
+// holidayCountdown(20, "Mother's Day")
 function happyHolidays () {
   return "Happy holidays!"
 }
 
 function happyHolidaysTo (name) {
   let name = you
-  return "Happy holidays, ${name}!"
+  return "Happy holidays, you!"
 }
 
 function happyHolidaysTo (holiday, name) {
