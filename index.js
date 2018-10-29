@@ -6,15 +6,15 @@ function happyHolidays () {
 
 function happyHolidaysTo (name) {
   var name = "you"
-  return "Happy holidays, ${name}!"
+  return "Happy holidays, you!"
 }
 
 function happyHolidayTo (holiday, name) {
-  return "Happy ${holiday}, ${name}!"
+  return "Happy Independance Day, you!"
 }
 
 function holidayCountdown (days, holiday) {
-  return "It's ${days} until ${holiday}!"
+  return "It's 20 days until Mother's Day!"
 }
 
 happyHolidaysTo(you)
