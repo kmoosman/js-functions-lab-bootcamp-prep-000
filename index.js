@@ -5,11 +5,11 @@ function happyHolidays () {
 }
 
 function happyHolidaysTo (name) {
-  let name = you
+  var name = "you"
   return "Happy holidays, ${name}!"
 }
 
-function happyHolidaysTo (holiday, name) {
+function happyHolidayTo (holiday, name) {
   return "Happy ${holiday}, ${name}!"
 }
 
