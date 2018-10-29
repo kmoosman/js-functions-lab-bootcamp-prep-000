@@ -18,4 +18,3 @@ function holidayCountdown (days, holiday) {
 }
 
 happyHolidaysTo(you)
-
