@@ -1,4 +1,5 @@
 // write your code below!
+holidayCountdown(20, "Mother's Day")
 function happyHolidays () {
   return "Happy holidays!"
 }
@@ -14,5 +15,3 @@ function happyHolidaysTo (holiday, name) {
 function holidayCountdown (days, holiday) {
   return "It's ${days} until ${holiday}!"
 }
-
-holidayCountdown(20, "Mother's Day")
